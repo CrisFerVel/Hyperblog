@@ -1,8 +1,8 @@
 body
 {
-    color: crimson;
+    color: rgb(255, 0, 170);
     text-align: center;
-    font-family: "Arial";
+    font-family: Segoe UI, Tahoma, Geneva, Verdana, "sans-serif";
 }
 
 body1
