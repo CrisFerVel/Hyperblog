@@ -4,3 +4,10 @@ body
     text-align: center;
     font-family: "Arial";
 }
+
+body1
+{
+    color: rgb(0, 255, 136);
+    text-align: center;
+    font-family:"Times New Roman";
+}
