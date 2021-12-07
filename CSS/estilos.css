@@ -1,13 +1,22 @@
 body
 {
-    color: rgb(255, 0, 170);
+    color: rgba(31, 31, 31, 0.877);
     text-align: center;
-    font-family: Segoe UI, Tahoma, Geneva, Verdana, "sans-serif";
+    font-family: "Chiller";
+    margin: 0;
+    padding: 0;
 }
 
-body1
+#container
 {
-    color: rgb(0, 255, 136);
-    text-align: center;
-    font-family:"Times New Roman";
+    width: 70%;
+    padding: 1cm;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px; 
 }
