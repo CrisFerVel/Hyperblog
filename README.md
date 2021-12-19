@@ -11,4 +11,4 @@ En este curso se aprecia de todo:
 * Las multiples branches del profe Freddy con la con un merge de todas ellas
 * La ayuda del branch "AnitaPlatzi" que es de gran apoyo al master
 
-Y como recordatorio, ***Esta es una maravilloza comunidad***  y este README.md es una buena practica del curso de [*Git y GitHub*](https://platzi.com/clases/1557-git-github/) que ofrece [**Platzi**](https://platzi.com/home).
+Y como recordatorio, ***Esta es una maravilloza comunidad***  y este README.md es una buena practica del curso de [*Git y GitHub*](https://platzi.com/cursos/git-github/) que ofrece [**Platzi**](https://platzi.com/home).
