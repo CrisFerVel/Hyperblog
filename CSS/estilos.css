@@ -22,7 +22,7 @@ body
 
 #cabecera #logo
 {
-    width: 20px;
+    width: 25px;
     vertical-align: middle;
 }
 
@@ -51,4 +51,12 @@ body
 {
     background: white;
     padding: 1cm;
+}
+
+#footer
+{
+    background: rgb(158, 88, 216);
+    color: white;
+    text-align: center;
+    padding: 0.5cm;
 }
