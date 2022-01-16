@@ -12,4 +12,5 @@ En este curso se aprecia de todo:
 * La ayuda del branch "AnitaPlatzi" que es de gran apoyo al master
 * Creado por el increible Platzi Team
 * Incluye ejemplos en Windows Linux y MAC
+* Disponible para todas las edades
 Y como recordatorio, ***Esta es una maravilloza comunidad***  y este README.md es una buena practica del curso de [*Git y GitHub*](https://platzi.com/cursos/git-github/) que ofrece [**Platzi**](https://platzi.com/home).
